@@ -13,6 +13,13 @@
 
 - ⚡ Fun fact **I can sing in 6 languages🎇**
 
+## Honours 🏅
+- Selected among 120 girls from all over India for [Google Women Techmakers Engineering Fellowship](https://wtef.talentsprint.com/)
+
+- Awarded with 21 Under 21 Award at [GS India Summit](https://girlscriptsummit.com/)
+
+- Winner at multiple [national](https://devpost.com/software/self-tutor-5346oz) and [international](https://devpost.com/software/space-streak) Hackathons
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tania malhotra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tania malhotra" height="30" width="40" /></a>

@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I can sing in 6 languages🎇**
 
 ## Honours 🏅
-- Selected among 120 girls from all over India for [Google Women Techmakers Engineering Fellowship](https://wtef.talentsprint.com/)
+- Selected in 120 girls from all over India for [Google Women Techmakers Engineering Fellowship](https://wtef.talentsprint.com/)
 
 - Awarded with 21 Under 21 Award at [GS India Summit](https://girlscriptsummit.com/)
 

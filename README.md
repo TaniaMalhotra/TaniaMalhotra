@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tania</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-![](https://komarev.com/ghpvc/?username=TaniaMalhotra)
+
 
 - 🔭 I’m currently working on [Python scripts](https://github.com/TaniaMalhotra/hacking-tools-scripts)
 

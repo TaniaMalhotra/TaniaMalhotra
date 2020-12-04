@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **Algorithms**
 
-- 📫 How to reach me **malhotratanya847@gmail.com**
-
 - ⚡ Fun fact **I can sing in 6 languages🎇**
 
 ## Honours 🏅

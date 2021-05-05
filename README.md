@@ -17,7 +17,6 @@
 
 - Awarded with 21 Under 21 Award at [GS India Summit](https://girlscriptsummit.com/)
 
-- Winner at multiple [national](https://devpost.com/software/self-tutor-5346oz) and [international](https://devpost.com/software/space-streak) Hackathons
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

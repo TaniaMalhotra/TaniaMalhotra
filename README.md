@@ -13,7 +13,7 @@
 
 - Awarded with 21 Under 21 Award at [GS India Summit](https://girlscriptsummit.com/)
 
-- Lead Girlscript Patiala Chapter'21
+- Lead [Girlscript](https://www.girlscript.tech/home) Patiala Chapter'21
 
 
 <h3 align="left">Connect with me:</h3>

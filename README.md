@@ -21,4 +21,3 @@
 <a href="https://www.linkedin.com/in/tania-malhotra-8b498018b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tania malhotra" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taniamalhotra&show_icons=true&locale=en" alt="taniamalhotra" /></p>
